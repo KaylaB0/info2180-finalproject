@@ -1,6 +1,6 @@
 # info2180-finalproject
 
-This is Final Project for:
+This is the Final Project for:
 
 Kayla Byfield (620157582)
 
